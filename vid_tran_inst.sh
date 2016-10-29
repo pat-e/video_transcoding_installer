@@ -12,3 +12,7 @@ sudo apt-get install mkvtoolnix
 sudo apt-get install mplayer
 
 sudo apt-get install mp4v2-utils
+
+sudo apt-get install ruby
+
+sudo gem install video_transcoding
