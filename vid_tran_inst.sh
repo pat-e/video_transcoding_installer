@@ -3,7 +3,7 @@
 sudo apt-get update
 
 sudo apt-get install -y software-properties-common
-sudo add-apt-repository ppa:stebbins/handbrake-releases
+sudo add-apt-repository -y ppa:stebbins/handbrake-releases
 sudo apt-get update
 sudo apt-get install -y handbrake-cli
 
