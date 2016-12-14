@@ -16,3 +16,5 @@ sudo apt-get install -y mp4v2-utils
 sudo apt-get install -y ruby
 
 sudo gem install video_transcoding
+
+sudo apt-get install -y mediainfo
