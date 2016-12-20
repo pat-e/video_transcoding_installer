@@ -19,8 +19,7 @@ sudo gem install video_transcoding
 
 sudo apt-get install -y mediainfo
 
-clear
-echo " "
+echo "\n"
 echo "Don't forget to edit the video transcoding script to your likings."
 echo "sudo nano /var/lib/gems/2.3.0/gems/video_transcoding-*/bin/transcode-video"
-echo " "
+echo "\n"
