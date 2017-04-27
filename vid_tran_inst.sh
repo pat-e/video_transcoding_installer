@@ -9,8 +9,6 @@ sudo apt-get install -y handbrake-cli
 
 sudo apt-get install -y mkvtoolnix
 
-sudo apt-get install -y mplayer
-
 sudo apt-get install -y ffmpeg
 
 sudo apt-get install -y mp4v2-utils
