@@ -11,6 +11,8 @@ sudo apt-get install -y mkvtoolnix
 
 sudo apt-get install -y mplayer
 
+sudo apt-get install -y mpv
+
 sudo apt-get install -y mp4v2-utils
 
 sudo apt-get install -y ruby
